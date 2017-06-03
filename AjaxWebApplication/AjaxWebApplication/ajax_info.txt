@@ -1,0 +1,7 @@
+﻿AJAX
+
+AJAX bir programlama dili değildir.
+
+AJAX, web sunucularına bir web sayfasından erişmek için kullanılan bir tekniktir.
+
+AJAX Asyncronous JavaScript ve XML anlamına gelir.
